@@ -37,6 +37,8 @@ class GenerateOxidTest extends Base
 
 }
 EOF;
+
+    protected $methodTemplate = "public function %s(%s %s) {\n    \n    }";
     protected function configure()
     {
         $this->setDefinition(array(
