@@ -1,5 +1,5 @@
 {
-    "name":"solutiondrive/oxception",
+    "name":"codeception/codeception",
     "description":"BDD-style testing framework for OXID eShop",
     "keywords":["BDD", "acceptance testing", "functional testing", "unit testing", "tdd", "oxid"],
     "homepage":"http://codeception.com/",
